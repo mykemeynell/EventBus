@@ -1,0 +1,15 @@
+{
+    "name": "mykemeynell/eventbus",
+    "autoload": {
+        "psr-4": {
+            "EventBus\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Myke Meynell",
+            "email": "1590190+mykemeynell@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
